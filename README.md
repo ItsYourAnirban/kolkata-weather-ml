@@ -374,26 +374,6 @@ This project demonstrates:
 3. Commit changes (`git commit -am 'Add new model'`)
 4. Push to branch (`git push origin feature/new-model`)
 5. Create Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Weather patterns based on historical Kolkata climate data
-- Scikit-learn documentation and examples
-- Python data science community
-- Matplotlib and Seaborn visualization libraries
-
-## 📞 Support
-
-For questions and support:
-- Create an issue in the repository
-- Check the troubleshooting section
-- Review module documentation
-- Run help command in the application
-
 ---
 
 **Made with ❤️ for learning Machine Learning and Data Science**
