@@ -1,0 +1,6 @@
+Model,Status,Validation_R2,Validation_RMSE,Validation_MAE,Test_R2,Test_RMSE,Test_MAE
+Linear Regression,Trained,0.864,2.935,2.282,0.671,2.422,1.945
+Ridge Regression,Trained,0.864,2.935,2.299,0.668,2.433,1.961
+Lasso Regression,Trained,0.860,2.974,2.320,0.673,2.412,1.922
+Random Forest,Trained,0.885,2.691,2.147,0.694,2.332,1.876
+Support Vector Regression,Trained,0.864,2.927,2.262,0.687,2.361,1.879
